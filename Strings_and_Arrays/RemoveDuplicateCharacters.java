@@ -13,7 +13,7 @@ public class RemoveDuplicateCharacters {
 	
 	public static String removeDuplicates(String str)
 	{
-		//char holder;
+		
 		String adjustedStr1 = str.toLowerCase();
 		String adjustedStr2 = str.toLowerCase();
 		String temp = "";
